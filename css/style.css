@@ -2424,9 +2424,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #2878EB;
-  border-color: #2878EB;
+  color: #2878EB;
+  background-color: #FFF;
+  border-color: #ffffff;
 }
 
 .btn-primary:hover {
@@ -9823,13 +9823,13 @@ h6,
   padding: 30px 15px;
   font-size: 18px;
   font-weight: 500;
-  color: #120F2D;
+  color: #fff;
   outline: none;
 }
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #2878EB;
+  color: #120F2D;
 }
 
 @media (max-width: 991.98px) {
